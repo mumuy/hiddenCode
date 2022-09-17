@@ -2,4 +2,4 @@
 
 项目演示地址：[https://passer-by.com/hiddenCode/](https://passer-by.com/hiddenCode/)
 
-在线脚本加密: [https://passer-by.com/relationship/hiddenCode/create.htm](https://passer-by.com/hiddenCode/create.html)
+在线脚本加密: [https://passer-by.com/hiddenCode/create.htm](https://passer-by.com/hiddenCode/create.html)
